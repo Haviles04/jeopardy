@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mothers Day Trivia",
+      "name": "Mother's Day Trivia",
       "questions": [
         {
           "id": 1,
@@ -22,9 +22,9 @@
           "price": 400,
           "multipleChoice": true,
           "qa": {
-            "question": "Which US President made Mothers Day a National Holiday?",
+            "question": "Which U.S. President made Mother's Day a National Holiday?",
             "a": "Woodrow Wilson",
-            "b": "Theodore Roosevel",
+            "b": "Theodore Roosevelt",
             "c": "Abraham Lincoln",
             "d": "William Howard Taft",
             "answer": "Woodrow Wilson"
@@ -35,7 +35,7 @@
           "price": 600,
           "multipleChoice": true,
           "qa": {
-            "question": "How much money last year was spent on flowers in the US on Mothers Day?",
+            "question": "How much money last year was spent on flowers in the U.S. on Mother's Day?",
             "a": "800 Millon",
             "b": "50.4 Million",
             "c": "3.2 Billion",
@@ -48,7 +48,7 @@
           "price": 800,
           "multipleChoice": true,
           "qa": {
-            "question": "The first mothers day in 1907 was celebrated in which way",
+            "question": "The first Mother's Day in 1907 was celebrated in which way?",
             "a": "As a fair",
             "b": "As a picnic",
             "c": "As a poetry reading",
@@ -61,7 +61,7 @@
           "price": 1000,
           "multipleChoice": true,
           "qa": {
-            "question": "In which country is Mothers day celebrated twice a year",
+            "question": "In which country is Mother's Day celebrated twice a year?",
             "a": "France",
             "b": "Nepal",
             "c": "Switzerland",
@@ -98,7 +98,7 @@
           "price": 600,
           "multipleChoice": false,
           "qa": {
-            "question": "Which TV mom is best known for his collection of wigs, and mispronunciation of common words such as \"bebe\"?",
+            "question": "Which TV mom is best known for her collection of wigs, and mispronunciation of common words such as \"bebe\"?",
             "answer": "Moira Rose"
           }
         },
@@ -107,7 +107,7 @@
           "price": 800,
           "multipleChoice": false,
           "qa": {
-            "question": "Which TV mom is seperated from her daughter, due to an oppressive totalitarian society named Gilead?",
+            "question": "Which TV mom is seperated from her daughter due to an oppressive totalitarian society called Gilead?",
             "answer": "June Osborne"
           }
         },
@@ -116,8 +116,8 @@
           "price": 1000,
           "multipleChoice": false,
           "qa": {
-            "question": "This TV moms family is well known for their oddities, particulary her daughter named after a day of the week",
-            "answer": "Morticia Adams"
+            "question": "This TV mom's family is well known for their oddities, particulary her daughter named after a day of the week",
+            "answer": "Morticia Addams"
           }
         }
       ]
@@ -131,7 +131,7 @@
           "price": 200,
           "multipleChoice": false,
           "qa": {
-            "question": "Which Lynyrd Skynyrd song did Henry dance to with his mom at his wedding",
+            "question": "Which Lynyrd Skynyrd song did Henry dance to with his mom at his wedding?",
             "answer": "Simple Man"
           }
         },
@@ -153,7 +153,7 @@
           "price": 600,
           "multipleChoice": false,
           "qa": {
-            "question": "Who is the artist behind the song \"Mama, I'm Coming Home\"",
+            "question": "Who is the artist behind the song \"Mama, I'm Coming Home\"?",
             "answer": "Ozzy Osbourne"
           }
         },
@@ -175,7 +175,7 @@
           "price": 1000,
           "multipleChoice": false,
           "qa": {
-            "question": "Which famous song by The Beatles is inspired by Paul Mccartneys mother?",
+            "question": "Which famous song by The Beatles is inspired by Paul McCartneys mother?",
             "answer": "\"Let It Be\""
           }
         }
@@ -199,7 +199,7 @@
           "price": 400,
           "multipleChoice": false,
           "qa": {
-            "question": "Which product bought from a pharmacy will never be found at Kellis house?",
+            "question": "Which product bought from a pharmacy will never be found at Kelli's house?",
             "answer": "Sunscreen"
           }
         },
@@ -208,7 +208,7 @@
           "price": 600,
           "multipleChoice": false,
           "qa": {
-            "question": "Who is the name and artist of Kellis go-to karaoke song?",
+            "question": "Who is the name and artist of Kelli's go-to karaoke song?",
             "answer": "\"Landslide\" by Fleetwood Mac"
           }
         },
@@ -217,7 +217,7 @@
           "price": 800,
           "multipleChoice": false,
           "qa": {
-            "question": "What is Kellis favorite italian dish?",
+            "question": "What is Kelli's favorite italian dish?",
             "answer": "Eggplant Row-ta-tilly"
           }
         },
@@ -241,7 +241,7 @@
           "price": 200,
           "multipleChoice": false,
           "qa": {
-            "question": "What is Rosalies maiden name?",
+            "question": "What is Rosalie's maiden name?",
             "answer": "Siegfried"
           }
         },
@@ -259,7 +259,7 @@
           "price": 600,
           "multipleChoice": false,
           "qa": {
-            "question": "What is Rosalies role/title on BoatLife 2.0?",
+            "question": "What is Rosalie's role/title on BoatLife 2.0?",
             "answer": "First Mate"
           }
         },
@@ -268,7 +268,7 @@
           "price": 800,
           "multipleChoice": false,
           "qa": {
-            "question": "What is Rosalies favorite game?",
+            "question": "What is Rosalie's favorite game?",
             "answer": "Mahjong"
           }
         },
@@ -277,8 +277,8 @@
           "price": 1000,
           "multipleChoice": false,
           "qa": {
-            "question": "Where did Rosalie work prior to her current role as a bookkeeper?",
-            "answer": "In a law office"
+            "question": "Which well known late 90's popstar will Rosalie forever refuse to listen to?",
+            "answer": "Britney Spears"
           }
         }
       ]
