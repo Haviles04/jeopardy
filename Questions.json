@@ -1,0 +1,338 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mothers Day Trivia",
+      "questions": [
+        {
+          "id": 1,
+          "price": 200,
+          "multipleChoice": true,
+          "qa": {
+            "question": "During which month are most babies born?",
+            "a": "June",
+            "b": "December",
+            "c": "May",
+            "d": "September",
+            "answer": "September"
+          }
+        },
+        {
+          "id": 2,
+          "price": 400,
+          "multipleChoice": true,
+          "qa": {
+            "question": "Which US President made Mothers Day a National Holiday?",
+            "a": "Woodrow Wilson",
+            "b": "Theodore Roosevel",
+            "c": "Abraham Lincoln",
+            "d": "William Howard Taft",
+            "answer": "Woodrow Wilson"
+          }
+        },
+        {
+          "id": 3,
+          "price": 600,
+          "multipleChoice": true,
+          "qa": {
+            "question": "How much money last year was spent on flowers in the US on Mothers Day?",
+            "a": "800 Millon",
+            "b": "50.4 Million",
+            "c": "3.2 Billion",
+            "d": "5 Billion",
+            "answer": "3.2 Billion"
+          }
+        },
+        {
+          "id": 4,
+          "price": 800,
+          "multipleChoice": true,
+          "qa": {
+            "question": "The first mothers day in 1907 was celebrated in which way",
+            "a": "As a fair",
+            "b": "As a picnic",
+            "c": "As a poetry reading",
+            "d": "As a memorial service",
+            "answer": "As a memorial service"
+          }
+        },
+        {
+          "id": 5,
+          "price": 1000,
+          "multipleChoice": true,
+          "qa": {
+            "question": "In which country is Mothers day celebrated twice a year",
+            "a": "France",
+            "b": "Nepal",
+            "c": "Switzerland",
+            "d": "Norway",
+            "answer": "Nepal"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tv Show Mothers",
+      "questions": [
+        {
+          "id": 1,
+          "price": 200,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Who is the famous cartoon mother known for having yellow skin?",
+            "answer": "Marge Simpson"
+          }
+        },
+        {
+          "id": 2,
+          "price": 400,
+          "multipleChoice": false,
+          "qa": {
+            "question": "In the popular TV show \"Game Of Thrones\", who is known as the \"The Mother of dragons\"? ",
+            "answer": "Danenerys Targaryen"
+          }
+        },
+        {
+          "id": 3,
+          "price": 600,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Which TV mom is best known for his collection of wigs, and mispronunciation of common words such as \"bebe\"?",
+            "answer": "Moira Rose"
+          }
+        },
+        {
+          "id": 4,
+          "price": 800,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Which TV mom is seperated from her daughter, due to an oppressive totalitarian society named Gilead?",
+            "answer": "June Osborne"
+          }
+        },
+        {
+          "id": 5,
+          "price": 1000,
+          "multipleChoice": false,
+          "qa": {
+            "question": "This TV moms family is well known for their oddities, particulary her daughter named after a day of the week",
+            "answer": "Morticia Adams"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Songs about Mothers",
+      "questions": [
+        {
+          "id": 1,
+          "price": 200,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Which Lynyrd Skynyrd song did Henry dance to with his mom at his wedding",
+            "answer": "Simple Man"
+          }
+        },
+        {
+          "id": 2,
+          "price": 400,
+          "multipleChoice": true,
+          "qa": {
+            "question": "Whos mom has got it going on in the famous 2003 song by Fountains of Wayne ",
+            "a": "Staceys",
+            "b": "Gwens",
+            "c": "Charlottes",
+            "d": "Jennys",
+            "answer": "Staceys"
+          }
+        },
+        {
+          "id": 3,
+          "price": 600,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Who is the artist behind the song \"Mama, I'm Coming Home\"",
+            "answer": "Ozzy Osbourne"
+          }
+        },
+        {
+          "id": 4,
+          "price": 800,
+          "multipleChoice": true,
+          "qa": {
+            "question": "In what year was the Rolling Stones song \"Mothers Little Helper\" released?",
+            "a": "1968",
+            "b": "1966",
+            "c": "1970",
+            "d": "1969",
+            "answer": "1966"
+          }
+        },
+        {
+          "id": 5,
+          "price": 1000,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Which famous song by The Beatles is inspired by Paul Mccartneys mother?",
+            "answer": "\"Let It Be\""
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SeabeeLady",
+      "questions": [
+        {
+          "id": 1,
+          "price": 200,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Where are you most likely to run into Kelli on a warm summer day?",
+            "answer": "The Beach"
+          }
+        },
+        {
+          "id": 2,
+          "price": 400,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Which product bought from a pharmacy will never be found at Kellis house?",
+            "answer": "Sunscreen"
+          }
+        },
+        {
+          "id": 3,
+          "price": 600,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Who is the name and artist of Kellis go-to karaoke song?",
+            "answer": "\"Landslide\" by Fleetwood Mac"
+          }
+        },
+        {
+          "id": 4,
+          "price": 800,
+          "multipleChoice": false,
+          "qa": {
+            "question": "What is Kellis favorite italian dish?",
+            "answer": "Eggplant Row-ta-tilly"
+          }
+        },
+        {
+          "id": 5,
+          "price": 1000,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Where did Kelli work prior to cleaning houses?",
+            "answer": "Waitress at a diner"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rosegold",
+      "questions": [
+        {
+          "id": 1,
+          "price": 200,
+          "multipleChoice": false,
+          "qa": {
+            "question": "What is Rosalies maiden name?",
+            "answer": "Siegfried"
+          }
+        },
+        {
+          "id": 2,
+          "price": 400,
+          "multipleChoice": false,
+          "qa": {
+            "question": "How many closets at home does Rosalie use to store clothing?",
+            "answer": "5"
+          }
+        },
+        {
+          "id": 3,
+          "price": 600,
+          "multipleChoice": false,
+          "qa": {
+            "question": "What is Rosalies role/title on BoatLife 2.0?",
+            "answer": "First Mate"
+          }
+        },
+        {
+          "id": 4,
+          "price": 800,
+          "multipleChoice": false,
+          "qa": {
+            "question": "What is Rosalies favorite game?",
+            "answer": "Mahjong"
+          }
+        },
+        {
+          "id": 5,
+          "price": 1000,
+          "multipleChoice": false,
+          "qa": {
+            "question": "Where did Rosalie work prior to her current role as a bookkeeper?",
+            "answer": "In a law office"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Who said it?",
+      "questions": [
+        {
+          "id": 1,
+          "price": 500,
+          "multipleChoice": false,
+          "qa": {
+            "question": "\"It's not even about the money it's the thrill to get it for free\"",
+            "answer": "Kelli"
+          }
+        },
+        {
+          "id": 2,
+          "price": 500,
+          "multipleChoice": false,
+          "qa": {
+            "question": "\"What you put into it, is what you get out of it\"",
+            "answer": "Rosalie"
+          }
+        },
+        {
+          "id": 3,
+          "price": 500,
+          "multipleChoice": false,
+          "qa": {
+            "question": "\"I already had 4 cups I have to wait a couple hours to have more\"",
+            "answer": "Kelli"
+          }
+        },
+        {
+          "id": 4,
+          "price": 500,
+          "multipleChoice": false,
+          "qa": {
+            "question": "\"Won my first box, 1000\"",
+            "answer": "Rosalie"
+          }
+        },
+        {
+          "id": 5,
+          "price": 500,
+          "multipleChoice": false,
+          "qa": {
+            "question": "\"Beauty is pain\"",
+            "answer": "Rosalie"
+          }
+        }
+      ]
+    }
+  ]
+}
